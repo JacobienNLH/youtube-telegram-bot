@@ -1,0 +1,5 @@
+# requirements.txt
+# Dependencies for YouTube Telegram Bot
+
+python-telegram-bot>=21.0
+yt-dlp>=2024.1.0
